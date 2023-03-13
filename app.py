@@ -42,5 +42,6 @@ def process_mrz():
         'type': mrz_data['type'],
         'date_of_birth': mrz_data['date_of_birth'],
         'expiration_date': mrz_data['expiration_date'],
-        'sex': mrz_data['sex']
+        'sex': mrz_data['sex'],
+        'number': mrz_data['number']
     })
